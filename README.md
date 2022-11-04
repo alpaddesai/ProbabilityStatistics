@@ -10,3 +10,5 @@ The project provides information on Engineering Probability and Statistics. Conf
 
 ## Probability and Statistics Certificate
 ![image](ProbabilityCertificateIII.jpg)
+
+Additional details reference https://github.com/alpaddesai/EngineeringProjectManagement, https://github.com/alpaddesai/ProbabilityStochasticProcesses, and https://github.com/alpaddesai/BigDataDataScience. 

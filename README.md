@@ -9,4 +9,4 @@ The project provides information on Engineering Probability and Statistics. Conf
 ![image](ProbabilityCertificateI.jpg)
 
 ## Probability and Statistics Certificate
-![image](ProbabilityCertificateII.jpg)
+![image](ProbabilityCertificateIII.jpg)

@@ -5,8 +5,8 @@ The project provides information on Engineering Probability and Statistics. Conf
 ## Engineering probability and Statistics
 ![image](Probability.jpg)
 
-## Probability Certificate
+## Probability and StatisticsCertificate
 ![image](ProbabilityCertificateI.jpg)
 
-## Probability Certificate
+## Probability and Statistics Certificate
 ![image](ProbabilityCertificateII.jpg)

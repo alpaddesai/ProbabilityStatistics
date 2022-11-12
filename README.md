@@ -11,6 +11,9 @@ The project provides information on Engineering Probability and Statistics. Conf
 ## Probability and Statistics Certificate
 ![image](ProbabilityCertificateIII.jpg)
 
+## Ethics
+![image](Ethics.jpg)
+
 ## Certificate
 ![image](USCopyrightCertificate.png)
 

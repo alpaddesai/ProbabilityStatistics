@@ -17,4 +17,4 @@ The project provides information on Engineering Probability and Statistics. Conf
 ## Certificate
 ![image](USCopyrightCertificate.png)
 
-Additional details reference https://github.com/alpaddesai/EngineeringProjectManagement, https://github.com/alpaddesai/ProbabilityStochasticProcesses, and https://github.com/alpaddesai/BigDataDataScience. 
+Additional details reference https://github.com/alpaddesai/EngineeringProjectManagement, https://github.com/alpaddesai/DataMining, https://github.com/alpaddesai/ProbabilityStochasticProcesses, and https://github.com/alpaddesai/BigDataDataScience. 

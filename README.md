@@ -11,9 +11,6 @@ The project provides information on Engineering Probability and Statistics. Conf
 ## Probability and Statistics Certificate
 ![image](ProbabilityCertificateIII.jpg)
 
-## CFA Exam
-![image](CFAExam.jpg)
-
 ## Ethics
 ![image](Ethics.jpg)
 
